@@ -2,7 +2,7 @@
 
 Azure Cloud Service Study
 
-<img src="https://i.pcmag.com/imagery/reviews/06dapK8j91rZ6HEsE4T8uTT-2..v1601499714.png" width="500" alt="jQuery Logo">4
+<img src="https://i.pcmag.com/imagery/reviews/06dapK8j91rZ6HEsE4T8uTT-2..v1601499714.png" width="500" alt="jQuery Logo">
 
 ## References
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/azure/)
