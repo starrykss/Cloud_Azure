@@ -11,6 +11,7 @@ Azure Cloud Service Study
     - [Azure Web App](https://azure.microsoft.com/ko-kr/products/app-service/web)
     - [Azure SQL Database](https://azure.microsoft.com/en-us/products/azure-sql/database)
     - [Azure Storage Account](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview)
+    - [Azure AI | Machine Learning Studio](https://ml.azure.com/)
 
 ## References
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/azure/)
