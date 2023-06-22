@@ -8,6 +8,7 @@ Azure Cloud Service Study
 - **Practice Articles** : [my blog](https://dev-astra.tistory.com/category/Cloud/Azure)
 - **Practice Materials**
     - [Azure Cognitive Services](https://azure.microsoft.com/ko-kr/products/cognitive-services)
+    - [Azure Visual Studio Service](https://azure.microsoft.com/en-us/products/visual-studio)
     - [Azure Web App](https://azure.microsoft.com/ko-kr/products/app-service/web)
     - [Azure SQL Database](https://azure.microsoft.com/en-us/products/azure-sql/database)
     - [Azure Storage Account](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview)
